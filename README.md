@@ -1,5 +1,5 @@
 # FM6126-LED-Matrix-Panel-
-Information, drivers and source for FM6126 based LED matrix panels
+Information, drivers and source for FM6126 based LED matrix panels with teh HUB75e connectors.
 
 So many sites with information about LED matrix panesl.
 
