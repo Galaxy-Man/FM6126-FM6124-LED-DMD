@@ -5,7 +5,7 @@ Panel identification P3-6432-2121-16S-D1.0
 
 So many sites with information about LED matrix panels.
 
-Cannot find anyone doing much withthe FM6126 based panels, so I though I would upload anything I have.
+Cannot find anyone doing much with the FM6126 based panels, so I though I would upload anything I have.
 
 I have the panels working with the Mega256, just started looking at the DOIT ESP32 Dev kit V1 device.
 
