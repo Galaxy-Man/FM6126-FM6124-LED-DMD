@@ -9,6 +9,7 @@
 #include <Adafruit_GFX.h>
 #include "ESP32RGBmatrixPanel.h"
 
+// FM6126 based LED matrix panels with the HUB75e connectors
 // RGB LED Matrix panel
 // P3-6432-2121-16S-D1.0
 //  R1 | G1
