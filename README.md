@@ -7,7 +7,7 @@ So many sites with information about LED matrix panels.
 
 Cannot find anyone doing much with the FM6126 based panels, so I though I would upload anything I have.
 
-I have the panels working with the Mega256, just started looking at the DOIT ESP32 Dev kit V1 device.
+I have the panels working with the Mega256 and the DOIT 30/36/38 Pin ESP32 Dev kit V1 device.
 
 If anyone wants to add to this please do any help would be appreciated.
 
