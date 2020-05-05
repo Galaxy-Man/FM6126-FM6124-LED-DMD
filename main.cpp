@@ -1,6 +1,7 @@
-// work in progress
+// Heavy work in progress
+// this is used for a test ground but does work
 // https://github.com/VGottselig/ESP32-RGB-Matrix-Display/issues/2
-
+// http://bobdavis321.blogspot.com/2019/02/p3-64x32-hub75e-led-matrix-panels-with.html?m=1
 #include <arduino.h>
 
 #include <SPI.h>
