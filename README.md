@@ -12,3 +12,7 @@ I have the panels working with the Mega256 and the DOIT 30/36/38 Pin ESP32 Dev k
 If anyone wants to add to this please do any help would be appreciated.
 
 I have found a PDF in German which has a lot of good information.
+
+Only supports 4096 colours
+
+RGB in format 0x0BGR
