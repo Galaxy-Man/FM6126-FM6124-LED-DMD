@@ -2,6 +2,8 @@
 // this is used for a test ground but does work
 // Could not of done this without the fantastic help of the following.
 //
+// Vitali Gottselig and Bob Davis
+//
 // Wifi does not work with this setup, or I am rubbish and cannot get it working lol
 // Going to use the serial to connect to an ESP gateway for internet updates.
 //
