@@ -11,10 +11,10 @@ Cannot find anyone doing much with the FM6126 based panels, so I though I would 
 
 I have the panels working with the Mega256 and the DOIT 30/36/38 Pin ESP32 Dev kit V1 device.
 
-If anyone wants to add to this please do any help would be appreciated.
-
 I have found a PDF in German which has a lot of good information.
 
-Only supports 4096 colours 16x16x16 colours for RGB which should be 4bit
+This library only supports 4096 colours 16x16x16 colours for RGB which should be 4bit
 
 RGB in format 0x0BGR with values 0-15 each channel.
+
+If anyone wants to add to this please do any help would be appreciated.
