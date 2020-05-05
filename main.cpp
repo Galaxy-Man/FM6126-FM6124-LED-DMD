@@ -384,7 +384,7 @@ void gfxScrollMessageDemo()
 
   int num1;
   int num2;
-  auto msg1 = "Ianandra Medlock: via Messages @ 11:47 ";
+  auto msg1 = "Ianandra : via Messages @ 11:47 ";
   auto msg2 = "'The quick brown fox jumps over the lazy dog'";
 
   // Size in pixel width 1 = 6 * 1, 2 = 6 * 2, 3 = 6 * 3, 4 = 6 * 4
