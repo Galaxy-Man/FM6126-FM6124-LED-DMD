@@ -16,7 +16,7 @@ mrfaptastic https://github.com/mrfaptastic
 Brian Lough https://github.com/witnessmenow  
 Marc Merlin https://github.com/marcmerlin  
 
-and for the FM612x reset routine
+and for the FM612x reset routine  
 Bob Davis   https://github.com/bobdavis321   
 Bob Davis   https://bobdavis321.blogspot.com/search?q=matrix     
 
