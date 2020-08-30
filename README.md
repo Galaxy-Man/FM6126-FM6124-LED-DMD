@@ -6,9 +6,9 @@ Available from Amazon for less than £20 or direct from AliExpress for £13
 So many sites with information about LED matrix panels. Cannot find anyone doing much with the FM6126 based panels, so I though I would upload anything I have.
 
 For ESP32 users I would only recommend mrfaptastic's library,  
-https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA
+https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA  
 You can have panel sizes greater than 128x128 (2x2) read through his page before going out to buy as there are different types of 
-Panels out there. Most panels should work if FMxxxx based then use the reset routine.
+Panels out there. Most panels should work even a mix of panels, if FMxxxx based then use the reset routine.
 
 Kudos goes to 
 
