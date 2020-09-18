@@ -23,7 +23,7 @@ RGB64x32MatrixPanel_I2S_DMA matrix;
 // Change these to whatever suits
 // recommended settings and patches are by
 //
-// pinout for ESP38 38pin module
+// pinout for ESP32 38pin module
 // http://arduinoinfo.mywikis.net/wiki/Esp32#KS0413_keyestudio_ESP32_Core_Board
 //
 // Yes this code could be shorter but who cares, it works :-)
