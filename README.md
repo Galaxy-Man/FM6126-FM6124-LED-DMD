@@ -23,7 +23,7 @@ Bob Davis   https://bobdavis321.blogspot.com/search?q=matrix
 
 If anyone wants to add to this please do any help would be appreciated.
 
-# Spreadssheet to Pamtrix Panel for Android Galaxy Icons project
+# Spreadsheet to Matrix Panel for Android Galaxy Icon project
 
 ![](https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg)  
 
