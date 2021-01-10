@@ -28,6 +28,19 @@ If anyone wants to add to this please do any help would be appreciated.
 <img src="https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg" width="300">  
 <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" width="300"> 
 
+ <div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="ihttps://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div> 
+
+
 # ESP32-3dCube
 
 <img src="https://github.com/Galaxy-Man/The-Cube/blob/main/ESP323dCube.gif" width="300">  
@@ -39,3 +52,6 @@ If anyone wants to add to this please do any help would be appreciated.
 # Rear Panel Layout FM6124 and FM6126
 
 <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/RGBMatrix32x64.jpg" width="300">  
+
+
+
