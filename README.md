@@ -25,9 +25,9 @@ If anyone wants to add to this please do any help would be appreciated.
 
 # Spreadsheet to Matrix Panel for Android Galaxy Icon project
 
-![](https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg =100x100)  
+![](https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg  | width="100") 
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)  
+ 
 
 # ESP32-3dCube
 
