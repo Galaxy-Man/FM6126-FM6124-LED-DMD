@@ -28,7 +28,9 @@ If anyone wants to add to this please do any help would be appreciated.
 </a>  
  <br> <br> <br> 
 
-
+<!--
+comment not used in the browser
+//-->  
 
 # Excel -> C++ Array -> Matrix Panel for Android Galaxy LED Cover Icon project  
 
