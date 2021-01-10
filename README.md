@@ -29,7 +29,8 @@ If anyone wants to add to this please do any help would be appreciated.
  <br> <br> <br> 
 
 <!--
-comment not used in the browser
+comment not used in the browser.
+Note: The two forward slashes at the end of comment line (//) is the JavaScript comment symbol. This prevents JavaScript from executing the --> tag.
 //-->  
 
 # Excel -> C++ Array -> Matrix Panel for Android Galaxy LED Cover Icon project  
