@@ -30,13 +30,13 @@ If anyone wants to add to this please do any help would be appreciated.
 
  <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Snow" style="width:100%">
+    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Snow" style="width:25%">
   </div>
   <div class="column">
-    <img src="ihttps://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Forest" style="width:100%">
+    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Forest" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Mountains" style="width:100%">
+    <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" alt="Mountains" style="width:50%">
   </div>
 </div> 
 
