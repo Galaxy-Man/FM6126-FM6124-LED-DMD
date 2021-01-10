@@ -32,9 +32,10 @@ If anyone wants to add to this please do any help would be appreciated.
 
 <img src="https://github.com/Galaxy-Man/The-Cube/blob/main/ESP323dCube.gif" width="300">  
 
-
 # ESP32-Pitch & Roll
+
 <img src="https://github.com/Galaxy-Man/The-Cube/blob/main/mpu6050pitchRoll.gif" width="300">  
 
+# Rear Panel Layout FM6124 and FM6126
 
-
+<img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/RGBMatrix32x64.jpg" width="300">  
