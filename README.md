@@ -25,13 +25,12 @@ If anyone wants to add to this please do any help would be appreciated.
 
 # Spreadsheet to Matrix Panel for Android Galaxy Icon project
 
-<img src="https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg" width="100"> 
+<img src="https://github.com/Galaxy-Man/FM6126-FM6124-LED-DMD/blob/master/20200404_145121_resized.jpg" width="200"> 
 
- <img src="https://github.com/favicon.ico" width="48">  
 
 # ESP32-3dCube
 
-![ezgif com-video-to-gif](https://github.com/Galaxy-Man/The-Cube/blob/main/ESP323dCube.gif)
+<img src="https://github.com/Galaxy-Man/The-Cube/blob/main/ESP323dCube.gif" width="200"> 
 
 # ESP32-Pitch & Roll
 ![ezgif com-video-to-gif](https://github.com/Galaxy-Man/The-Cube/blob/main/mpu6050pitchRoll.gif)
