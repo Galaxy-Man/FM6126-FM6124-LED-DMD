@@ -35,7 +35,7 @@ Note: The two forward slashes at the end of comment line (//) is the JavaScript 
 <img src="https://raw.githubusercontent.com/Galaxy-Man/FM6126-FM6124-LED-DMD/master/20200412_080117_resized_1.jpg" width="300"> 
 </a> 
 
-# ESP32-3dCube
+# ESP32-3dCube MPU6050
 
 <img src="https://github.com/Galaxy-Man/The-Cube/blob/main/ESP323dCube.gif" width="300">  
 
