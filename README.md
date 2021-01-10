@@ -26,6 +26,7 @@ If anyone wants to add to this please do any help would be appreciated.
 
 <!--
 comment not used in the browser.
+https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
 Note: The two forward slashes at the end of comment line (//) is the JavaScript comment symbol. This prevents JavaScript from executing the - - > tag.
 //-->  
 
